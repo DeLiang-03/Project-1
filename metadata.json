@@ -1,0 +1,6 @@
+{
+  "name": "ByteCraft Academy",
+  "description": "Interactive, gamified computer science learning lab for Grade 7 students covering hardware vs software, PC components, micro-CPU fetch-decode-execute cycles, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
